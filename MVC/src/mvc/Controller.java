@@ -18,7 +18,7 @@ public class Controller {
 
     // Ejecuta la logica de interaccion entre vista y modelo
     public void calculate() {
-        // Obtiene los números de la vista
+        // Obtiene los numeros de la vista
         int num1 = view.getFirstNumber();
         int num2 = view.getSecondNumber();
 

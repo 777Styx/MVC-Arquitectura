@@ -12,13 +12,13 @@ public class View {
 
     // Pedir el primer numero al usuario
     public int getFirstNumber() {
-        System.out.print("Introduce el primer número: ");
+        System.out.print("Introduce el primer numero: ");
         return scanner.nextInt();
     }
 
     // Pedir el segundo numero al usuario
     public int getSecondNumber() {
-        System.out.print("Introduce el segundo número: ");
+        System.out.print("Introduce el segundo numero: ");
         return scanner.nextInt();
     }
 
